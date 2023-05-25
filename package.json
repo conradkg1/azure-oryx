@@ -1,5 +1,5 @@
 {
-    "name": "nosql-social-network-api",
+    "name": "azure-oryx",
     "version": "1.0.0",
     "description": "A simple social media API built express and mongoose",
     "private": true,
@@ -12,15 +12,15 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/kitrath/nosql-social-network-api.git"
+      "url": "git+https://github.com/conradkg1/azure-oryx.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/kitrath/nosql-social-network-api/issues"
+      "url": "https://github.com/conradkg1/azure-oryx/issues"
     },
-    "homepage": "https://github.com/kitrath/nosql-social-network-api#readme",
+    "homepage": "https://github.com/conradkg1/azure-oryx#readme",
     "dependencies": {
       "dotenv": "^16.0.3",
       "express": "^4.17.1",
